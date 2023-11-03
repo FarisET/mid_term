@@ -10,6 +10,7 @@ class Products {
   String? category;
   String? thumbnail;
   List<dynamic> images;
+  
 
   Products({
     required this.id,
